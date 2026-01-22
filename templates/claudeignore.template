@@ -1,0 +1,24 @@
+# .claudeignore - Exclude files from Claude Code analysis
+# Copy to project root as .claudeignore if /init analyzes RPI Plus pack files
+
+# RPI Plus pack internals (workflow tooling, not project code)
+.claude/commands/
+.claude/extensions/
+
+# Installer artifacts (remove after setup)
+templates/
+examples/
+install.sh
+install.ps1
+
+# Sensitive data (PII, credentials)
+data/
+secrets/
+*.env
+credentials/
+
+# Large generated files
+node_modules/
+.git/
+dist/
+build/

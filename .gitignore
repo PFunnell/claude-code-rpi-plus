@@ -1,0 +1,42 @@
+# Claude Code local configs (these should not be committed)
+.claude/portable_config.local.yaml
+.claude/settings.local.json
+
+# Pack development materials (not part of publishable pack)
+# See _dev/README.md for development workflow
+_dev/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.backup.*
+
+# Secrets
+secrets/
+credentials/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Test output
+.coverage
+htmlcov/
+.pytest_cache/

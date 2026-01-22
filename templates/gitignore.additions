@@ -1,0 +1,13 @@
+# Claude Code RPI Plus
+.claude/portable_config.local.yaml
+.claude/settings.local.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.backup.*
+
+# Secrets
+secrets/
+credentials/
