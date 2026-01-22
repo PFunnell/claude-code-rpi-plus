@@ -158,4 +158,4 @@ Contributions welcome! Please:
 
 ## Acknowledgments
 
-Inspired by best practices in software engineering and the unique challenges of working with AI coding assistants. Started by applying the Portable Context Engineering Schema (PCES) principles and refined with multiple iterations of Claude Code self-improvement under pressure. PCES inspiration credit due to the Langchain/Langgraph teams, Manus team, Latent Space podcast, Simon Willison, et al. CCRPI+ approach was refined through comparison with various flavours of Ralph and Boris Cherny's own usage patters.
+Inspired by best practices in software engineering and the unique challenges of working with AI coding assistants. Started by applying the Portable Context Engineering Schema (PCES) principles and refined with multiple iterations of Claude Code self-improvement under pressure. PCES inspiration credit due to the Langchain/Langgraph teams, Manus team, Latent Space podcast, Simon Willison, et al. CCRPI+ approach was refined through comparison with various flavours of Ralph and Boris Cherny's own usage patterns.
